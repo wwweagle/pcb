@@ -1,0 +1,64 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=74HCT4067Module
+*Date=17:18:39
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;6.89619;-81.3052;-90;Bottom;TXT2
+2;;;55.8382;-72.0351;0;Bottom;Via19
+3;;;50.7582;-41.5551;0;Bottom;Via8
+4;;THT;10.1182;-21.2351;0;Bottom;J3
+5;;;3.36583;-81.4757;-90;Bottom;TXT1
+6;;;65.9982;-84.7351;0;Bottom;Via10
+7;;;4.76761;-42.7663;0;Bottom;TXT6
+8;;;85.2258;-61.0275;-90;Bottom;TXT7
+9;;;48.2182;-41.5551;0;Bottom;Via5
+10;;;11.3882;-56.7951;0;Bottom;Via6
+11;;;27.8982;-65.6851;180;Bottom;Part1
+12;;THT;48.2182;-92.3551;-90;Bottom;J1
+13;;;60.0829;-3.63985;-90;Bottom;TXT7
+14;;;48.2182;-32.6651;180;Bottom;Part2
+15;;;25.3582;-55.5251;0;Bottom;Via4
+16;;;27.8982;-49.1751;0;Bottom;Via7
+17;;THT;87.5882;-8.53514;-90;Bottom;J11
+18;;THT;5.0382;-21.2351;0;Bottom;J2
+19;;;47.4255;-95.1703;0;Bottom;TXT4
+20;;THT;90.1282;-77.1151;0;Bottom;J12
+21;;;43.1382;-88.5451;0;Bottom;Via18
+22;;THT;25.3582;-21.2351;0;Bottom;J6
+23;;;8.8482;-56.7951;0;Bottom;Via2
+24;;;11.3882;-93.6251;0;Bottom;Hole4
+25;;;76.1582;-14.8851;0;Bottom;Hole3
+26;;;54.5682;-84.7351;0;Bottom;Via12
+27;;;5.0382;-49.1751;0;Bottom;Hole2
+28;;;47.7352;-97.7008;0;Bottom;TXT5
+29;;;45.6782;-35.2051;0;Bottom;Via1
+30;;THT;44.4082;-4.72514;-90;Bottom;J9
+31;;;43.1382;-84.7351;0;Bottom;Via17
+32;;THT;15.1982;-21.2351;0;Bottom;J4
+33;;;68.5382;-72.0351;0;Bottom;Via13
+34;;;68.5382;-65.6851;180;Bottom;Part3
+35;;;83.7782;-87.2751;0;Bottom;Via14
+36;;;25.3582;-46.6351;0;Bottom;Via3
+37;;THT;69.8082;-14.8851;0;Bottom;J8
+38;;;38.0582;-72.0351;0;Bottom;Via16
+39;;;83.7782;-94.8951;0;Bottom;Hole5
+40;;;65.9982;-96.1651;0;Bottom;Via11
+41;;THT;64.7282;-21.2351;0;Bottom;J7
+42;;THT;95.2082;-77.1151;0;Bottom;J13
+43;;;45.6782;-72.0351;0;Bottom;Via15
+44;;THT;87.5882;-4.72514;-90;Bottom;J10
+45;;;32.9782;-16.1551;0;Bottom;Hole1
+46;;;88.8582;-32.6651;180;Bottom;Part4
+47;;;3.53988;-59.3097;-90;Bottom;TXT3
+48;;THT;20.2782;-21.2351;0;Bottom;J5
+49;;;71.0782;-74.5751;0;Bottom;Via9
